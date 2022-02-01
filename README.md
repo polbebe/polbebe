@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polbebe
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Agrifood + Robotics
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me p.bernat@columbia.edu
